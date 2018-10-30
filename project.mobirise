@@ -32,7 +32,17 @@
     "versionFirst": "4.8.6",
     "siteFonts": [],
     "uniqCompNum": 8,
-    "versionPublish": "4.8.6"
+    "versionPublish": "4.8.6",
+    "favicon": "",
+    "noImageResize": "",
+    "firebaseSnippet": "",
+    "html_before": "",
+    "headbody": "",
+    "botbody": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
